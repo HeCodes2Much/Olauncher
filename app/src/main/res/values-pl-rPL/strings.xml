@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">Wyczyść wszystkie dane</string>
     <string name="advanced_settings_theme_title">Tworzenie tematów</string>
     <string name="advanced_settings_theme_description">Dostosuj motywy do swoich potrzeb.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">Eksport</string>
     <string name="advanced_settings_theme_import">Import</string>
     <string name="advanced_settings_backup_restore_clear_title">Wyczyść preferencje</string>

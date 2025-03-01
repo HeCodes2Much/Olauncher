@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">Alle Daten löschen</string>
     <string name="advanced_settings_theme_title">Themenkreationen</string>
     <string name="advanced_settings_theme_description">Passen Sie die Designs Ihren Wünschen entsprechend an.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">Export</string>
     <string name="advanced_settings_theme_import">Import</string>
     <string name="advanced_settings_backup_restore_clear_title">Einstellungen löschen</string>

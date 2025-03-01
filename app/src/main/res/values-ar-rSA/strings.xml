@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">مسح كافة البيانات</string>
     <string name="advanced_settings_theme_title">إبداعات الثيمات</string>
     <string name="advanced_settings_theme_description">قم بتخصيص المواضيع لتناسبك.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">يصدّر</string>
     <string name="advanced_settings_theme_import">يستورد</string>
     <string name="advanced_settings_backup_restore_clear_title">مسح التفضيلات</string>

@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">נקה את כל הנתונים</string>
     <string name="advanced_settings_theme_title">יצירות נושא</string>
     <string name="advanced_settings_theme_description">התאם אישית ערכות נושא שיתאימו לך.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">יְצוּא</string>
     <string name="advanced_settings_theme_import">ייבוא</string>
     <string name="advanced_settings_backup_restore_clear_title">נקה העדפות</string>

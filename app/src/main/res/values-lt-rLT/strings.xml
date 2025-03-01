@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">Išvalyti visus duomenis</string>
     <string name="advanced_settings_theme_title">Temos kūriniai</string>
     <string name="advanced_settings_theme_description">Tinkinkite jums tinkančias temas.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">Eksportuoti</string>
     <string name="advanced_settings_theme_import">Importuoti</string>
     <string name="advanced_settings_backup_restore_clear_title">Išvalyti nuostatas</string>

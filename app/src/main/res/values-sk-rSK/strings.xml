@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">Vymazať všetky údaje</string>
     <string name="advanced_settings_theme_title">Témové výtvory</string>
     <string name="advanced_settings_theme_description">Prispôsobte si témy tak, aby vám vyhovovali.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">Exportovať</string>
     <string name="advanced_settings_theme_import">Importovať</string>
     <string name="advanced_settings_backup_restore_clear_title">Vymazať predvoľby</string>

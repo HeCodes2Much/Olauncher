@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">모든 데이터 지우기</string>
     <string name="advanced_settings_theme_title">테마 크리에이션</string>
     <string name="advanced_settings_theme_description">나에게 맞는 테마를 설정하세요.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">내보내다</string>
     <string name="advanced_settings_theme_import">수입</string>
     <string name="advanced_settings_backup_restore_clear_title">환경 설정 지우기</string>

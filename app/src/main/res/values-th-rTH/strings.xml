@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">ล้างข้อมูลทั้งหมด</string>
     <string name="advanced_settings_theme_title">การสร้างสรรค์ธีม</string>
     <string name="advanced_settings_theme_description">ปรับแต่งธีมให้เหมาะกับคุณ</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">ส่งออก</string>
     <string name="advanced_settings_theme_import">การนำเข้า</string>
     <string name="advanced_settings_backup_restore_clear_title">ล้างการตั้งค่า</string>

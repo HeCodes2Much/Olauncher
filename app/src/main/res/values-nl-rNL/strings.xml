@@ -123,6 +123,8 @@
     <string name="advanced_settings_backup_restore_clear">Alle gegevens wissen</string>
     <string name="advanced_settings_theme_title">Thema creaties</string>
     <string name="advanced_settings_theme_description">Pas thema\'s aan uw wensen aan.</string>
+    <string name="advanced_settings_wotd_title">Word of the Day</string>
+    <string name="advanced_settings_wotd_description">Import custom Word of the Day list.</string>
     <string name="advanced_settings_theme_export">Exporteren</string>
     <string name="advanced_settings_theme_import">Importeren</string>
     <string name="advanced_settings_backup_restore_clear_title">Voorkeuren wissen</string>
