@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Base Settings -->
-    <string name="select_app">בחר אפליקציה</string>
+    <string name="select_app">בחר יישום</string>
     <string name="show_apps">כל היישומים</string>
     <!-- Strings used for settings menus -->
     <string name="settings_name">הגדרות mLauncher</string>
@@ -31,15 +31,15 @@
     <string name="auto_open_apps">פתיחה אוטומטית של יישומים</string>
     <string name="lock_home_apps">נעילת יישומי דף הבית</string>
     <string name="lock_settings">הגדרות נעילה</string>
-    <string name="apps_on_home_screen">מספר אפליקציות הבית</string>
+    <string name="apps_on_home_screen">מספר יישומים בדף הבית</string>
     <string name="pages_on_home_screen">מספר דפים</string>
-    <string name="enable_home_pager">הפעל את Home Pager</string>
+    <string name="enable_home_pager">הפעל דיפדוף בדף הבית</string>
     <string name="battery_date_time">סוללה &amp; תאריך/שעה</string>
     <string name="show_clock">הצג שעון</string>
     <string name="show_clock_format">תצוגת זמן (AM/PM)</string>
     <string name="show_date">הצג תאריך</string>
     <string name="show_alarm">הצג שעון מעורר</string>
-    <string name="show_daily_word">הצג מילה יומית</string>
+    <string name="show_daily_word">הצג מסר יומי</string>
     <string name="show_battery">הצג סוללה</string>
     <string name="show_battery_icon">הצגת סמליל סוללה</string>
     <string name="show_total_screen_time">הצג זמן מסך כולל</string>
@@ -50,7 +50,7 @@
     <string name="date_text_size">גודל הטקסט של התאריך</string>
     <string name="clock_text_size">גודל טקסט שעון</string>
     <string name="alarm_text_size">גודל טקסט שעון מעורר</string>
-    <string name="daily_word_text_size">גודל טקסט המילה היומית</string>
+    <string name="daily_word_text_size">גודל טקסט המסר היומי</string>
     <string name="battery_text_size">גודל הטקסט של הסוללה</string>
     <string name="layout_positioning">פריסה &amp; מיקום</string>
     <string name="app_padding_size">גודל ריפוד</string>
@@ -61,15 +61,15 @@
     <string name="show_recent_apps">הצג יישומים אחרונים</string>
     <string name="number_of_recents">מספר היישומים האחרונים</string>
     <string name="show_app_usage_stats">הצג סטטיסטיקות שימוש ביישומים</string>
-    <string name="select_app_icons">בחר אייקוני אפליקציה</string>
+    <string name="select_app_icons">בחר סימלוני אפליקציה</string>
     <string name="filter_strength">חוזק מסנן</string>
     <string name="background_opacity">אטימות רקע</string>
     <string name="element_alignment">יישור אלמנטים</string>
-    <string name="date_alignment">תַאֲרִיך</string>
-    <string name="clock_alignment">שָׁעוֹן</string>
+    <string name="date_alignment">תאריך</string>
+    <string name="clock_alignment">שעון</string>
     <string name="alarm_alignment">שעון מעורר</string>
-    <string name="daily_word_alignment">מילה יומית</string>
-    <string name="home_alignment">יישומי בית</string>
+    <string name="daily_word_alignment">מסר יומי</string>
+    <string name="home_alignment">יישומי דף הבית</string>
     <string name="drawer_alignment">יישומי מגירה</string>
     <string name="element_colors">צבעי אלמנט</string>
     <string name="background_color">רקע</string>
@@ -77,16 +77,16 @@
     <string name="clock_color">שעון</string>
     <string name="date_color">תאריך</string>
     <string name="alarm_color">שעון מעורר</string>
-    <string name="daily_word_color">מילה יומית</string>
-    <string name="battery_color">סוֹלְלָה</string>
+    <string name="daily_word_color">מסר יומי</string>
+    <string name="battery_color">סוללה</string>
     <!-- Strings used for gestures settings -->
     <string name="gestures_settings_title">מחוות</string>
-    <string name="tap_click_actions">הקש/לחץ על פעולות</string>
+    <string name="tap_click_actions">פעולות הקשה/לחיצה</string>
     <string name="double_tap">הקשה כפולה</string>
     <string name="clock_click_app">לחיצה על השעון</string>
     <string name="date_click_app">לחיצה על התאריך</string>
-    <string name="usage_click_app">לחץ על סך שימוש</string>
-    <string name="floating_click_app">לחץ על לוגו</string>
+    <string name="usage_click_app">לחיצה על סך שימוש</string>
+    <string name="floating_click_app">לחיצה על הלוגו</string>
     <string name="swipe_movement">תנועת החלקה</string>
     <string name="short_swipe_up_app">החלקה למעלה</string>
     <string name="short_swipe_down_app">החלקה למטה</string>
@@ -101,7 +101,7 @@
     <string name="private_space">מרחבים פרטיים</string>
     <string name="show_notifications">הצגת התרעות</string>
     <string name="show_app_list">הצגת רשימת יישומים</string>
-    <string name="show_digital_wellbeing">הצג רווחה דיגיטלית</string>
+    <string name="show_digital_wellbeing">הצג שימוש חכם בדיגיטל</string>
     <string name="open_quick_settings">הגדרות מהירות</string>
     <string name="show_recents">הצגת האחרונים</string>
     <string name="open_power_dialog">תפריט הפעלה</string>
@@ -110,24 +110,24 @@
     <string name="right_page">מעבר לדף הימני</string>
     <!-- Strings used for advanced settings -->
     <string name="advanced_settings_title">מתקדם</string>
-    <string name="advanced_settings_app_info_title">מידע על האפליקציה</string>
+    <string name="advanced_settings_app_info_title">מידע על היישום</string>
     <string name="advanced_settings_app_info_description">%1$s</string>
     <string name="advanced_settings_set_as_default_launcher">הגדר כמשגר ברירת מחדל</string>
     <string name="advanced_settings_change_default_launcher">שנה את משגר ברירת המחדל</string>
     <string name="advanced_settings_restart_title">הפעל מחדש את המשגר</string>
     <string name="advanced_settings_restart_description">ניסית להדליק ולכבות?</string>
     <string name="advanced_settings_backup_restore_title">גיבוי/שחזור</string>
-    <string name="advanced_settings_backup_restore_description">אנא היזהר במה אתה מייחל?</string>
+    <string name="advanced_settings_backup_restore_description">שמרת גיבוי לשחזור במקרה הצורך?</string>
     <string name="advanced_settings_backup_restore_backup">גיבוי</string>
-    <string name="advanced_settings_backup_restore_restore">לְשַׁחְזֵר</string>
+    <string name="advanced_settings_backup_restore_restore">שחזר</string>
     <string name="advanced_settings_backup_restore_clear">נקה את כל הנתונים</string>
-    <string name="advanced_settings_theme_title">יצירות נושא</string>
+    <string name="advanced_settings_theme_title">יצירות ערכות נושא</string>
     <string name="advanced_settings_theme_description">התאם אישית ערכות נושא שיתאימו לך.</string>
-    <string name="advanced_settings_wotd_title">מילת היום</string>
-    <string name="advanced_settings_wotd_description">ייבא רשימת מילת היום מותאמת אישית.</string>
-    <string name="advanced_settings_theme_export">יְצוּא</string>
+    <string name="advanced_settings_wotd_title">מסר יומי</string>
+    <string name="advanced_settings_wotd_description">ייבוא רשימת מסרים יומיים מותאמת אישית.</string>
+    <string name="advanced_settings_theme_export">ייצוא</string>
     <string name="advanced_settings_theme_import">ייבוא</string>
-    <string name="advanced_settings_backup_restore_clear_title">נקה העדפות</string>
+    <string name="advanced_settings_backup_restore_clear_title">אפס העדפות</string>
     <string name="advanced_settings_backup_restore_clear_description">האם אתה בטוח שאתה רוצה לעשות זאת?</string>
     <string name="advanced_settings_backup_restore_clear_yes">כן</string>
     <string name="advanced_settings_backup_restore_clear_no">לא</string>
@@ -142,11 +142,11 @@
     <!-- Accessibility/Help Strings -->
     <string name="accessibility_service_name"> שירות פעולות של mLauncher</string>
     <string name="accessibility_service_description">שירות נגישות זה מאפשר ל-mLauncher לבצע פעולות מסוימות כמו נעילת המסך או פתיחת ההגדרות המהירות. שירות הנגישות שלנו אינו אוסף או משתף נתונים כלשהם.</string>
-    <string name="can_not_delete_system_apps">לא ניתן למחוק אפליקציות מערכת</string>
+    <string name="can_not_delete_system_apps">לא ניתן למחוק יישומי מערכת</string>
     <string name="please_select_app">אנא בחר יישום</string>
     <string name="drawer_list_empty_hint">לא נמצאו יישומים</string>
     <string name="long_press_for_settings">לחץ לחיצה ארוכה בכל מקום להגדרות</string>
-    <string name="long_press_to_select_app">לחץ לחיצה ארוכה כדי לבחור אפליקציה</string>
+    <string name="long_press_to_select_app">לחץ לחיצה ארוכה כדי לבחור יישום</string>
     <string name="swipe_up_for_apps">החלק למעלה לכל היישומים</string>
     <string name="app_drawer_tips">טיפ: החלק למטה בכדי לבטל. החלק להסתרת המקלדת.</string>
     <!-- PinCode Strings -->
@@ -158,7 +158,7 @@
     <string name="text_biometric_login_sub">היכנס באמצעות האישור הביומטרי שלך</string>
     <!-- Crash Strings -->
     <string name="acra_crash">קריסה</string>
-    <string name="acra_dialog_text">אנו מצטערים, אבל %1$s נתקל בבעיה בלתי צפויה וצריך להיסגר. אנא עזור לנו להשתפר על ידי שליחת דוח קריסה.\n\n%1$s מעריכה את הפרטיות שלך והנתונים שנאספים משמשים אך ורק לשיפור יציבות האפליקציה. לא נאסף מידע אישי. תודה על תמיכתך!</string>
+    <string name="acra_dialog_text">אנו מצטערים, אבל %1$s נתקל בבעיה בלתי צפויה וצריך להיסגר. אנא עזור לנו להשתפר על ידי שליחת דוח קריסה.\n\n%1$s מעריך את הפרטיות שלך והנתונים שנאספים משמשים אך ורק לשיפור יציבות האפליקציה. לא נאסף מידע אישי. תודה על תמיכתך!</string>
     <string name="acra_send_report">שלח דו\"ח</string>
     <string name="acra_dont_send">אל תשלח</string>
     <!-- Settings Strings -->
@@ -168,12 +168,12 @@
     <string name="dark">כהה</string>
     <string name="light">בהיר</string>
     <string name="system_default">מערכת</string>
-    <string name="restart_launcher">הפעל מחדש את משגר</string>
+    <string name="restart_launcher">הפעל מחדש את המשגר</string>
     <string name="delete">למחוק</string>
     <string name="hide">הסתרה</string>
     <string name="show">הצג</string>
-    <string name="lock">לִנְעוֹל</string>
-    <string name="unlock">לִפְתוֹחַ</string>
+    <string name="lock">נעל</string>
+    <string name="unlock">ביטול נעילה</string>
     <string name="rename">שינוי שם</string>
     <string name="info">מידע</string>
     <string name="okay">אוקיי</string>
@@ -190,7 +190,7 @@
     <!-- Private Spaces Strings -->
     <string name="alert_requires_android_v">פונקציונליות זו דורשת אנדרואיד 15 ואילך.</string>
     <string name="toast_private_space_default_home_screen">mLauncher צריך להיות מסך הבית המוגדר כברירת מחדל כדי לגשת למרחב פרטי.</string>
-    <string name="toast_private_space_locked">חלל פרטי נעול</string>
+    <string name="toast_private_space_locked">מרחב פרטי נעול</string>
     <string name="toast_private_space_unlocked">מרחב פרטי לא נעול</string>
-    <string name="toast_private_space_not_available">שטח פרטי אינו זמין</string>
+    <string name="toast_private_space_not_available">מרחב פרטי אינו זמין</string>
 </resources>
