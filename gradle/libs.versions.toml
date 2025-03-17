@@ -15,7 +15,7 @@ lifecycle-extensions = "2.2.0"
 lifecycle-viewmodel-ktx = "2.8.7"
 
 # Navigation
-navigation-fragment-ktx = "2.8.8"
+navigation-fragment-ktx = "2.8.9"
 navigation-ui-ktx = "2.8.8"
 navigation-testing = "2.8.8"
 
